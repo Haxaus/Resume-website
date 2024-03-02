@@ -1,1 +1,1 @@
-# Oasis-task2-Portfolio-
+# static
